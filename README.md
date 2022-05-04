@@ -1,5 +1,4 @@
-# React/Redux/Router Starter Project
+#Activity Dashboard for VS Code
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> Tracks my activity on VS Code
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
