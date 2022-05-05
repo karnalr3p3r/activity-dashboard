@@ -29,6 +29,8 @@ const App = () => {
         },
       })
       .then((response: { data: IActivityElement[] }) => {
+        console.log(response);
+
         if (response?.data) {
           const durations = response.data.map((stat: IActivityElement) =>
             stat.duration && stat.duration > 0
